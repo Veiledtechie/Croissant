@@ -1,10 +1,12 @@
 body {
-  background: blue;
+  background: lightblue;
 }
 h1 {
-  text-align: center;
-  color: white;
+  color: black;
 }
 a {
-  color: white;
+  color: black;
+}
+#picture {
+  margin-top: 5px;
 }
