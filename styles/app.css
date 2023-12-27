@@ -3,8 +3,16 @@ body {
 }
 h1 {
   color: black;
+  text-align: center;
 }
-a {
+h3 {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
+footer a {
+  margin: 10px;
   color: black;
 }
 #picture {
